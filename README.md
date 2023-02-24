@@ -12,7 +12,7 @@
 
 - 🌐 You can see all my projects here on github! 
 
-- 🔭 I’m currently working on ..
+- 🔭 I’m currently working on SASS JS AND API
 .
 - 🌱 I’m currently learning **SASS**
 
