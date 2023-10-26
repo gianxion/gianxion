@@ -12,13 +12,13 @@
 
 - 🌐 You can see all my projects here on github! 
 
-- 🔭 I’m currently working on SASS JS AND API
+- 🔭 I’m currently working on React Web Applications
 .
-- 🌱 I’m currently learning **SASS**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me: giannhschionidhs@gmail.com
 
-- ⚡  Hobbies: 🎣Fishing, 🎮Gaming, 🎶Music
+- ⚡  Hobbies: 🎣Fishing, 🎮Gaming, 🎶Music , ♟ Chess
 
 
 <h1 align=center>🧰 Toolkit</h1>
