@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/k2NLmg0/snow-banner-animated.gif" loop=infinite width=100% height=50% title="👋 Hi there! I'm Gianxion "/>
+<!-- <img src="https://i.ibb.co/k2NLmg0/snow-banner-animated.gif" loop=infinite width=100% height=50% title="👋 Hi there! I'm Gianxion "/> -->
 
 <h1 align=center>📕 About Me</h1>
 
